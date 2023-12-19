@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790194371958",
+    "project_id": "text-it-c4999",
+    "storage_bucket": "text-it-c4999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790194371958:android:c7789bbb4097328804ce57",
+        "android_client_info": {
+          "package_name": "com.Nagaraj.text_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNLaW1S60IW--4nWmhpNOSOjg6YoeGji8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

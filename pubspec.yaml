@@ -1,0 +1,44 @@
+name: text_it
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  
+  cupertino_icons: ^1.0.2
+  animated_text_kit: ^4.2.2
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - images/
+
+  fonts:
+    - family: Metropolis
+      fonts:
+        - asset: fonts/Metropolis-Regular.otf
+        - asset: fonts/Metropolis-Light.otf
+        - asset: fonts/Metropolis-Black.otf
+        - asset: fonts/Metropolis-Thin.otf
+        - asset: fonts/Metropolis-SemiBold.otf
+        - asset: fonts/Metropolis-Medium.otf
+
